@@ -1,0 +1,9 @@
+1. Terraform Init
+  It is use for initialize terraform locally.
+2. Terraform Plan
+  terraform plan shows you what Terraform will do before it actually does it.
+It compares your current infrastructure state with your configuration files (.tf files) and displays a detailed execution plan.
+
+
+3. Terraform Apply
+  The terraform apply command is used to execute the actions proposed by terraform plan. In other words, it actually creates, updates, or destroys infrastructure based on your .tf configuration files.
